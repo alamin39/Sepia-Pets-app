@@ -1,6 +1,6 @@
 # Sepia-Pets-app
 
-A simple pats app with some unit test case.
+A simple pets app with some Unit test case using Swift.
 
 
 Some Screenshots :
